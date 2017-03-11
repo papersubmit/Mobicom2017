@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProxyClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_to">Chooser</string>
+</resources>
